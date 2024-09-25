@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Laravel**
 
-- 💬 Ask me about **Web Development|Mobile Development**
+- 💬 Ask me about **Web Development | Mobile Development**
 
 - 📫 How to reach me **dulanjiariyarathne@gmail.com**
 
