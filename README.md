@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Dulanjali Ariyarathne</h1>
-<h3 align="center">A programmer and developer from Sri Lanka</h3>
+<h3 align="center">A Programmer and Developer from Sri Lanka</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dulanjali29&label=Profile%20views&color=0e75b6&style=flat" alt="dulanjali29" /> </p>
 
